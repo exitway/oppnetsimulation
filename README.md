@@ -1,5 +1,4 @@
 # README
-ENG : For Research Purpose in Opportunistic Network Simulating 
-INA : Tujuan Penelitian Jaringan Oportunistik (Simulasi)
+ENG : For Research Purpose in Opportunistic Network Simulating
 
-Installing Steps for NetBeans and Eclipse IDE in "Installing" Folder with Screenshots
+Installing Steps are available for NetBeans and Eclipse IDE in install.zip or online steps here : https://link.com
